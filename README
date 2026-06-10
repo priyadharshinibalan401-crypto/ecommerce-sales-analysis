@@ -1,20 +1,17 @@
-# E-Commerce Sales Analysis and Prediction
+## Model Performance
 
-## Overview
-This project analyzes e-commerce sales data using Python and provides insights into sales performance.
+- MAE: 200.55
+- RMSE: 560.42
+- R² Score: 0.1252
 
-## Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+The model was successfully trained using Random Forest Regression.
+The prediction accuracy was limited because the dataset contains only a small set of features.
 
-## Features
-- Data Analysis
-- Sales Calculation
-- Product-wise Analysis
-- Category-wise Analysis
-- Data Visualization
+## Key Findings
 
-## Author
-Priyadharshini B
+- Technology generated the highest sales and profit.
+- West was the highest-performing region.
+- Consumer was the top customer segment.
+- Phones and Chairs were the top-selling sub-categories.
+- Higher discounts reduced profitability.
+- Binders, Tables, and Machines were major loss-making sub-categories.
